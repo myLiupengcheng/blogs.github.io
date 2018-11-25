@@ -1,5 +1,3 @@
-# blogs.github.io
-this is liupengcheng`s blogs
 ## 博客简介
 
 ### 前言
